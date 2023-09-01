@@ -24,17 +24,12 @@ JavaScript
 Setup Instructions
 To run this web application locally, follow these steps:
 
-Clone the repository to your local machine.
-
-bash
-Copy code
-git clone https://github.com/yourusername/ecommerce-grocery-project.git
-Open the project folder in your preferred code editor.
-
-Launch the application by opening the index.html file in a web browser.
 
 Project Team
-John Doe - Project Manager
-Jane Smith - Front-End Developer
-Michael Johnson - Front-End Developer
-Emily Davis - UX/UI Designer
+1. Pyarel Fernandez
+2. Anupama Rajendran
+3. Mirsohail
+4. Antony Dadu
+5. Bhanu Prasad
+6. RamyaShree
+
